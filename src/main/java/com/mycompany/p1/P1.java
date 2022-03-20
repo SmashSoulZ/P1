@@ -12,6 +12,6 @@ package com.mycompany.p1;
 public class P1 {
 
     public static void main(String[] args) {
-        System.out.println("s!");
+        System.out.println("Olá Mundo");
     }
 }
